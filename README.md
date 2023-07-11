@@ -1,9 +1,9 @@
 # Vanity Plates Filter
 
-In Python I tried to implement a program that prompts the user for a so call "vanity plate" and then outputs "Valid" if this one meets all the requirements, or "Invalid" if it doesn't. The code handles case-insensitive characters (numbers, letters, etc.).
+In Python, I tried to implement a program that prompts the user for a so called "vanity plate" and then outputs "Valid" if this one meets all the requirements, or "Invalid" if it doesn't. The code handles case-insensitive characters (numbers, letters, etc.).
 The requirements for a "vanity plate" are:
 
--It must contain a minimum of 2 charactersa and a maximum of 6 characters.
+-It must contain a minimum of 2 characters and a maximum of 6 characters.
 
 -It must only contain all letters or letters and numbers. No periods, spaces, or punctuation marks are allowed.
 
